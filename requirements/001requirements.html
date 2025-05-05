@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Broiler Nutrition Specifications</title>
+<meta name="keywords" content="Broiler, Nutrition, Specifications">
+<meta name="description" content="Broiler Nutrition Specifications">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="author" content="Mihailo Radivojević">
+<style>
+html, body {
+margin:0;
+padding:0;
+font-family: Verdana, sans-serif;
+}
+body {
+background-color:#f2f0f0;
+}
+h1, h2, h3, h4, h5, h6, a {
+font-size:14pt;
+}
+#content {
+/*outline: 2px dashed red;*/
+width:90%;
+margin:0 auto;
+padding: 12px;
+}
+#content ul {
+list-style-type: none;
+}
+#content li {
+padding:12px;
+}
+a {
+text-decoration: none;
+font-weight:bold;
+color:blue;
+}
+</style>
+</head>
+<body>
+<div id="content">
+<h2>Broiler Nutrition Specifications</h2>
+<form action="reqselection.php" method="post">
+<label for="requirements">Select Age/Feed:</label>
+<select name="selectedrequirements" id="requirements">
+<optgroup label="High nutrient density diet specifications for broilers">
+<option value="1">0-18 days, starter</option>
+<option value="2">19-30 days, grower</option>
+<option value="3">31-41 days, finisher</option>
+<option value="4">42 days to market, withdrawal</option>
+</optgroup>
+<optgroup label="Low nutrient density diet specifications for broilers">
+<option value="5">0-18 days, starter</option>
+<option value="6">19-30 days, grower</option>
+<option value="7">31-41 days, finisher</option>
+<option value="8">42 days to market, withdrawal</option>
+</optgroup>
+<optgroup label="Diet specifications for very heavy broilers">
+<option value="9">0-15 days, starter</option>
+<option value="10">16-30 days, grower 1</option>
+<option value="11">31-45 days, grower 2</option>
+<option value="12">46-56 days, finisher 1</option>
+<option value="13">57 days to market, finisher 2</option>
+</optgroup>
+</select>
+<button type="submit">Choose</button>
+</form>
+<ul>
+<li><a href="../index.html">Go Back</a></li>
+</ul>
+</div>
+</body>
+</html>
