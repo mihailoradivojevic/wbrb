@@ -1,0 +1,65 @@
+******************************************************************************************
+Low nutrient density diet specifications for broilers
+0-18 days, starter
+******************************************************************************************
+BASIC:
+ME, Kcal/kg : 2,960.87
+ME, MJ/kg : 12.39
+Crude protein (CP), %: 21.77
+
+AMINO ACIDS:
+Methionine, %: 0.66
+Methionine&cystine, %: 0.94
+Lysine, %: 1.21
+Threonine, %: 0.77
+Tryptophan, %: 0.23
+Arginine, %: 1.31
+Valine, %: 0.91
+Leucine, %: 1.82
+Isoleucine, %: 0.80
+Histidine, %: 0.50
+Phenylalanine, %: 0.98
+
+MINERALS:
+Total calcium, %: 0.96
+Available Phosphorus, %: 0.46
+Sodium, %: 0.22
+Manganese, mg/kg: 137.26
+Iron, mg/kg: 231.34
+Copper, mg/kg: 30.14
+Zinc, mg/kg: 153.56
+Iodine, mg/kg: 1.48
+Selenium, mg/kg: 0.46
+
+VITAMINS:
+Vitamin A, IU/kg: 16,365.34
+Vitamin D3, IU/kg: 5,500.00
+Vitamin E, IU/kg: 111.92
+Vitamin K, mg/kg: 4.41
+Thiamin (B1), mg/kg: 8.03
+Riboflavin (B2), mg/kg: 11.57
+Pyridoxine (B6), mg/kg: 9.77
+Pantothenic Acid, mg/kg: 26.66
+Folic Acid, mg/kg: 2.66
+Niacin, mg/kg: 105.56
+Choline, mg/kg: 2,969.82
+Biotin, mg/kg: 0.484
+Cobalamin (B12), mg/kg: 0.037
+
+SUPPLEMENTARY:
+Manganese, mg/kg: 120.00
+Iron, mg/kg: 40.20
+Copper, mg/kg: 16.20
+Zinc, mg/kg: 120.00
+Iodine, mg/kg: 1.29
+Selenium, mg/kg: 0.30
+Vitamin A, IU/kg: 14,400.00
+Vitamin D3, IU/kg: 5,400.00
+Vitamin E, IU/kg: 81.00
+Vitamin K, mg/kg: 4.20
+Thiamin (B1), mg/kg: 5.10
+Riboflavin (B2), mg/kg: 9.00
+Niacin, mg/kg: 72.00
+Pantothenic Acid, mg/kg: 18.90
+Choline, mg/kg: 1,800.00
+Cobalamin (B12), mg/kg: 0.021
